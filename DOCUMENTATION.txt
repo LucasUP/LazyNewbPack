@@ -1,0 +1,36 @@
+ADVANCED HELP!
+----------------------------------------
+-Explains how to manually upgrade your Lazy Newb Pack to a new version of Dwarf Fortress.
+-Explains the contents of the LNP folder.
+----------------------------------------
+
+=SAVES=
+Saves are kept in "Dwarf Fortress\data\save". You can copy your save folder over to the new version.
+However it's often recommended that you start with a fresh game, or else you won't benefit from most of the changes.
+You can also just backup your old saves for safekeeping, or keep them with an old version of LNP.
+
+=GAME=
+Extract files from the new version of Dwarf Fortress into the "Dwarf Fortress" folder. You may need to delete the old files first, but make sure you salvage your savegames first.
+Note that the "Dwarf Fortress" folder can be re-named to ANYTHING starting with "Dwarf Fortress" (ie "Dwarf Fortress 9001" would work)
+
+
+OPTIONAL STEPS:
+
+=UTILITIES=
+Put ANY utilities you want to use into the "LNP\Utilities" folder. LNP automatically recognizes .exe and .jar files.
+
+=GRAPHICS=
+Extract any graphics packs you want to be able to use into "LNP\Graphics"
+LOOK LIKE: "Graphics\Mayday\[files]"
+NOT LIKE:   "Graphics\Mayday\Mayday\[files]"
+Once placed you can press the "Simplify Graphic Folder" button in the Lazy Newb Pack program to delete all the extra files the pack may contain.
+This is useful to save space or to re-pack to a friend
+
+=DEFAULTS=
+Copy d_init.txt and init.txt from the new DF version into "LNP\Defaults"
+These will be what your settings revert to when you click the "Defaults" button.
+
+=EXTRAS= (This is mostly for my own use)
+Any files in "LNP\Extras" are copied into the Dwarf Fortress folder the first time Lazy Newb Pack is run.
+It contains embark profiles and world-generation by default. (You may want to delete world-gen files because they may be incompatible with newer versions)
+A text file is made named "LNPx.x.txt" in the DF directory, where "x.x" is the version of the GUI. If you delete this file, the Extras folder will be installed again the next time Lazy Newb Pack is run.
