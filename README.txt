@@ -4,8 +4,8 @@ It allows users to easily change game settings, run other third party utilities,
 
 -Released under the GNU General Public License V3
 -Requires Microsoft Visual Basic 2008 Express or higher. Open "LazyNewbPackGUI.vbproj"
--The folder bin\debug is used when you export/test the program, it includes Dwarf Fortress and the LNP folder structure.
--Does not include any LNP utilities or graphics packs, but you may add them yourself.
+-The folder bin\debug is used when you export/test the program, it includes the LNP folder structure.
+-Does not include Dwarf Fortress files, or LNP utilities or graphics packs, you must add them yourself.
 
 The main Lazy Newb Pack thread can be found here:
 http://www.bay12forums.com/smf/index.php?topic=59026.0
