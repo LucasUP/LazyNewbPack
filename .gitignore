@@ -5,11 +5,7 @@
 *.pydevproject
 .project
 .metadata
-<<<<<<< HEAD
-#bin/ Its probably conveniant to keep the LNP folder structure located here
-=======
 ##bin/ Its probably conveniant to keep the LNP folder structure located here
->>>>>>> Trying to add bin and debug folders
 tmp/
 *.tmp
 *.bak
@@ -46,11 +42,7 @@ local.properties
 *.sln.docstates
 
 # Build results
-<<<<<<< HEAD
-#[Dd]ebug/
-=======
 ##[Dd]ebug/
->>>>>>> Trying to add bin and debug folders
 [Rr]elease/
 *_i.c
 *_p.c
