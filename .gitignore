@@ -5,7 +5,6 @@
 *.pydevproject
 .project
 .metadata
-##bin/ Its probably conveniant to keep the LNP folder structure located here
 tmp/
 *.tmp
 *.bak
@@ -42,7 +41,6 @@ local.properties
 *.sln.docstates
 
 # Build results
-##[Dd]ebug/
 [Rr]elease/
 *_i.c
 *_p.c
