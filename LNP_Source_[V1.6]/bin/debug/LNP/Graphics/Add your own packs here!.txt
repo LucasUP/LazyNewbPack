@@ -1,0 +1,8 @@
+Extract any graphics packs you want to be able to use into this folder.
+
+Make sure it has its own folder, and is not in a folder within a folder. It should
+LOOK LIKE: "Graphics\Mayday\[files]"
+NOT LIKE:  "Graphics\Mayday\Mayday\[files]"
+
+Once placed you can press the "Simplify Graphic Folders" button in the Graphics tab of the LNP GUI. This deletes any unnecessary files the pack may contain.
+This is useful to save space or to re-pack to a friend.
